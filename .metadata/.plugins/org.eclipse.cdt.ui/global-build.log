@@ -1,0 +1,7 @@
+10:57:19 **** Incremental Build of configuration Debug for project Primer PARCIAL ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\funcionesUTN.o" "..\\src\\funcionesUTN.c" 
+In file included from ..\src\funcionesUTN.c:8:
+..\src\funcionesUTN.h:13: error: unterminated #ifndef
+   13 | #ifndef FUNCIONESUTN_H_
+      | 
